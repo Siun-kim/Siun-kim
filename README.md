@@ -9,9 +9,6 @@
       <a href="https://www.linkedin.com/in/siunkim/">
         <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
       </a>
-      <a href="siun.kimx@gmail.com">
-        <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>
-      </a>
     </td>
     <td style="border: none;">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY4cjZpdTBrNTN4ejhnczVjbDUzNHhoazhkejB2eW1pMmk5d2E2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" alt="Anime GIF" width="480" />
